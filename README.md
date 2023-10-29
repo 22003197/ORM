@@ -45,7 +45,8 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ```
 ## OUTPUT
-![Alt text](<Screenshot 2023-10-28 143600.png>)
+![image](https://github.com/22003197/ORM/assets/124332243/d65d7ff4-b621-4c4c-b1ad-3839a935b82b)
+
 
 
 
